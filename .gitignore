@@ -1,2 +1,4 @@
-distribution/openmrs_*
+distribution/openmrs_modules/*.omod
+distribution/openmrs_owas/*.owa
+distribution/openmrs_webapps/*.war
 *.env
